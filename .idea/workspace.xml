@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f939a103-23a1-4777-8880-d921d2fd88d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/CNIC_Registeration_Foam.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/Delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/DeleteOneMore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/InsertionUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/LogInHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/Update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/UpdateionUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/UserCnic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/UserInfoUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/UserInfoUpdated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Online_ID/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/HomePage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Online_ID/ApplayNow.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Online_ID/ApplayNow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Online_ID/Header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Online_ID/Header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Online_ID/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Online_ID/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Online_ID/Style/OnlineHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Online_ID/Style/OnlineHome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Online_ID/Style/header-footerOnline.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Online_ID/Style/header-footerOnline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/HomePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/homestyling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/homestyling.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/NadraInnerSystem/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/NadraInnerSystem/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1tXmOCSDSSo4HK0OuAf6XJZsmTn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Web Final Project\Html\Online_ID" />
+      <recent name="C:\xampp\htdocs\Web Final Project\Html" />
+      <recent name="C:\xampp\htdocs\Web Final Project\Style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f939a103-23a1-4777-8880-d921d2fd88d3" name="Default Changelist" comment="" />
+      <created>1622923774508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622923774508</updated>
+      <workItem from="1622923776425" duration="2732000" />
+      <workItem from="1622959509993" duration="22000" />
+      <workItem from="1624877570257" duration="1555000" />
+      <workItem from="1624907079803" duration="2022000" />
+      <workItem from="1624949030148" duration="4884000" />
+      <workItem from="1624960327021" duration="14036000" />
+      <workItem from="1624975448303" duration="5281000" />
+      <workItem from="1625040688146" duration="2290000" />
+      <workItem from="1625045036142" duration="746000" />
+      <workItem from="1625510024903" duration="1265000" />
+      <workItem from="1625657869541" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="152" key="#Web_Browsers" timestamp="1624949735155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="152" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1624949735155" />
+    <state x="476" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1622923950865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622923950865" />
+    <state x="121" y="118" key="FileChooserDialogImpl" timestamp="1624879154690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624879154690" />
+    <state x="1851" y="402" key="NewPhpFileDialog" timestamp="1625657928815">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1851" y="402" key="NewPhpFileDialog/0.0.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1625657928815" />
+    <state x="518" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1624980818441" />
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1625511323630">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1625511323630" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Html/Online_ID/InsertionUser.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

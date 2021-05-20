@@ -1,0 +1,128 @@
+.roow1 {
+    width: 90%;
+    margin: 20px 5% 2% 5%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.cool2 input {
+    background-image: url(../Images/download.png);
+    background-size: 30px 30px;
+    background-position-x: right;
+    background-position-y: 3px;
+    background-repeat: no-repeat;
+
+    margin-top: 20px;
+    margin-left: 5px;
+    padding: 10px;
+    padding: 10px 20px 10px 20px;
+    position: absolute;
+    right: 10%;
+    border: 0.5px solid black;
+    border-radius: 10px;
+}
+
+ul {
+    background-color: rgb(68, 68, 68);
+    text-align: left;
+    padding: 20px;
+}
+
+ul li {
+    display: inline;
+    border-right: 0.5px solid white;
+    position: relative;
+    left: 8%;
+    padding: 10px 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+ul li a:hover {
+    border-bottom: 2px solid saddlebrown;
+}
+
+
+footer {
+    background-color: rgb(68, 68, 68);
+
+}
+
+.row1Footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.cool1 a {
+    padding-left: 10px;
+    color: white;
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    margin-right: 20px;
+    padding-right: 20px;
+    border-right: 1px solid white;
+    opacity: 0.6;
+}
+
+.cool2 a {
+    text-align: left;
+    color: white;
+    display: block;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+footer a:hover {
+    opacity: 1;
+}
+
+footer p {
+    color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.roow-n {
+    width: 30%;
+    margin-left: 35%;
+
+}
+
+.row1Footer {
+    margin: 30px 0px;
+}
+
+.row2Footer {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    opacity: 0.8;
+    border-top: 1px solid white;
+}
+
+.row2Footer a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.copyRight {
+    padding-top: 5px;
+}
+
+.privacy {
+    padding-top: 46px;
+    margin-left: 200px;
+}

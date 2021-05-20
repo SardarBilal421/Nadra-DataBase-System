@@ -1,0 +1,215 @@
+header {
+    padding: 0px;
+    height: 50px;
+    position: relative;
+}
+
+.colu1 {
+    width: 48%;
+    text-align: left;
+
+}
+
+.colu1 img {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 35px;
+    width: 172px;
+    height: 100%;
+}
+
+.roow1 {
+
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.colu2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 0px;
+    color: rgb(68, 68, 68);
+    display: flex;
+    flex-direction: row;
+    width: 15%;
+}
+
+#last_p {
+    color: rgb(68, 68, 68);
+}
+
+.colu3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    width: 15%;
+}
+
+.colu4 input {
+    background-image: url(../Images/download.png);
+    background-size: 30px 30px;
+    background-position-x: right;
+    background-position-y: 3px;
+    background-repeat: no-repeat;
+
+    margin-top: 20px;
+    margin-left: 5px;
+    padding: 10px;
+    padding: 10px 20px 10px 20px;
+}
+
+/* <!-- NAVIGATION BAR --> */
+
+/* .nav-bar{
+    background-color:rgb(69, 71, 78);
+    color: white;
+}
+.nav-bar ul li{
+    display: inline;
+}
+.nav-bar ul li a{
+    color:white;
+    text-decoration: white;
+}
+
+nav .sub-menu1{
+    position: absolute;
+    display: none;
+}
+.nav-bar>li:hover .sub-menu1{
+    display: block;
+} */
+
+/* .dropdown-menu li {
+    position: relative;
+
+}
+
+.dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+}
+
+.dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+}
+
+.dropdown-menu>li:hover>.dropdown-submenu {
+    display: block;
+} */
+
+/* .nav-bar ul ul ul li{
+    display: none;
+}
+.nav-bar ul ul li:hover li{
+    display: block;
+} */
+
+/* .nav-bar ul ul ul li:hover li{
+    text-decoration: underline;
+} */
+
+/* .nav-bar ul ul ul li{
+    display: none;
+}
+.nav-bar ul ul li{
+    display: none;
+}
+ .nav-bar ul li:hover li{
+    display: block;
+}  */
+/* .nav-bar ul ul ul {
+    display: none;
+}   
+.nav-bar ul ul li:hover > ul{
+
+    display: block;
+
+}              */
+
+
+/* .nav-bar{
+    height: auto;
+    padding: 10px;
+    background-color:rgb(69, 71, 78);
+    position: absolute';
+} */
+
+/*
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.nav-bar ul li{
+    display: inline;
+}
+.nav-bar ul ul li {
+    display: block;
+} */
+/* .nav-bar ul li{
+    position: relative;
+    display: inline;
+    border-right: 1px solid white;
+
+} */
+/* .nav-bar ul li a{
+    text-decoration: none;
+    padding: 8px;
+    color: white;
+   
+    width: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    overflow: none;
+    
+}
+
+.nav-bar ul ul{
+    display:none;
+
+    background-color:inherit;
+    color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.nav-bar ul li a:hover{
+    border-top:2px solid white;
+    margin: 10px 0px;
+}
+
+.nav-bar ul li:hover ul{
+    background-color: rgb(69, 71, 78);
+    display: block;
+    position: absolute;
+    width: 400px;
+    position: absolute;
+    overflow: none;
+    float: none;
+}
+
+.nav-bar ul ul ul{
+    display:none;
+}
+.nav-bar ul ul li:hover ul{
+   display: block;
+    position: relative;
+  
+    float: none;
+}
+.nav-bar ul ul ul ul{
+    display: none;
+}
+.nav-bar ul ul ul li:hover ul{
+    display: block;
+    position: relative;
+} */

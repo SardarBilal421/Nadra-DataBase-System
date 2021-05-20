@@ -1,0 +1,89 @@
+.ui-inputfield, .ui-widget-content .ui-inputfield, .ui-widget-header .ui-inputfield {
+    background: rgb(255, 255, 255);
+    -moz-box-shadow: inset 0 2px 2px #8f8f8f;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+    color: rgb(49, 49, 49);
+}
+
+.ui-selectonemenu .ui-selectonemenu-trigger {
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    cursor: pointer;
+    width: 31px;
+    height: 115%;
+    position: absolute;
+    right: 0;
+    top: -1px;
+    padding: 13px 4px;
+    border-radius: 0px;
+}
+
+.ui-widget-content {
+    border: 1px solid rgb(204, 204, 204);
+    background: rgb(255, 255, 255);
+    /* color: rgb(79, 79, 79); */
+}
+
+.ui-selectonemenu-panel .ui-selectonemenu-filter-container {
+    width: 100%;
+}
+
+
+
+
+.ui-message-error-icon {
+	background:none;}
+.ui-message-error-icon :after{
+	background:none;
+    content: "\f0d7";
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	color:#fff;
+}
+.ui-selectonemenu .ui-selectonemenu-trigger .ui-icon {
+    margin-top: -3px;
+}
+
+.ui-selectonemenu-panel .ui-selectonemenu-filter {
+    width: 100%;
+    padding-right: 15px;
+    margin-bottom: 0px;
+}
+
+.ui-selectonemenu-panel .ui-selectonemenu-filter-container .ui-icon {
+    position: absolute;
+    top: 18px;
+    right: 10px;
+}
+
+.ui-message-info, .ui-message-error, .ui-message-warn, .ui-message-fatal {
+    border:0;
+     margin: 0;
+    padding:0;
+        margin-top: -20px;
+        
+    margin-bottom: 16px;
+}
+.ui-messages-error, .ui-message-error {
+    color: rgb(255, 255, 255);
+    background-color: rgb(205, 92, 92);
+    border-color: rgb(238, 211, 215);
+}
+
+.message-margin-none
+{
+	margin:0;
+}
+
+#exampleCaptcha_CaptchaImageDiv.LBD_CaptchaImageDiv > a { 
+    background-color: yellow;
+}
+
+
+#signupForm\3a regLoca_panel > div.ui-selectonemenu-items-wrapper > table
+{
+	background:#fff;
+}

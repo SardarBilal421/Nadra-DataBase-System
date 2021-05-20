@@ -1,0 +1,69 @@
+.navbar-inverse {
+    background-color: #34393f;
+    border-left: rgb(253, 247, 247) thin;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 40px;
+}
+
+#myNavbar .navbar-nav li a {
+    color: #fff;
+    font-size: 15px;
+}
+
+#myNavbar .navbar-nav li a:hover {
+    border-top: 1px solid #37c7f3;
+}
+
+#myNavbar #course {
+    transition: all 0.3s ease-in-out;
+}
+
+#myNavbar #course:hover {
+    /* background-color: #0751a6; */
+    border-top: 1px solid #37c7f3;
+
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #37c7f3;
+    box-shadow: 2px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+#sub-dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #37c7f3;
+    margin-left: 186px;
+    margin-top: -26px;
+
+}
+
+#sub-dropdown-menu a,
+.dropdown-menu a {
+    color: rgb(255, 251, 251) !important;
+    font-size: 16px !important;
+    border-bottom: 1px solid #0aaddf;
+    border-top: 1px solid #0aaddf;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.dropdown .dropdown-menu a:hover {
+    background-color: #60b1d1e0;
+}
+
+
+#sub-dropdown:hover #sub-dropdown-menu {
+    display: block;
+}

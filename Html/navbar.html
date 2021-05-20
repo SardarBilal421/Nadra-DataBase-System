@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>About us</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../Style/navbar.css">
+<link rel="stylesheet" href="../Style/homestyling.css">
+<link rel="stylesheet" href="../Style/aboutus.css">
+<link rel="stylesheet" href="../Style/footer.css">
+</head>
+<body>
+
+
+  <header>
+    <div class="roow1">
+        <div class="colu1">
+            <img src="../Images/nadralogo.jpg" alt="logo">
+        </div>    
+        <div class="colu2">
+            <div >
+                <div>
+                    <h3>
+                        <i class="fa fa-map-marker" style="font-size:36px"></i>
+                    </h3>
+                </div>
+                <div>
+                    <p>
+                        NADRA Headquaters,<br>
+                        <span id="last_p">
+                            Islamabad, Pakistan
+                        </span>
+                    </p>
+                </div>    
+            </div>
+        </div>    
+            <!-- timing -->
+        <div class="colu3">    
+            <div>
+                <h3>
+                    <i class="fa fa-clock-o" style="font-size:36px"></i>
+                </h3>
+            </div>
+            <div>    
+                <p>
+                    09:00-17:00,<br>
+                    <span id="last_p">
+                        Monday-Friday
+
+                    </span>
+                </p>
+            </div>
+        </div>
+        <div class="colu4">
+            <!-- Search Bar -->
+            <h3>
+                <input type="text" name="searchBar" id="searchBar" placeholder="Search..." >
+            </h3>    
+        </div>   
+    </div>
+  </header>
+  <br><br><br><br><br><br><br>
+
+    
+    <style> 
+        table{
+         border-collapse: collapse;
+         background-color: rgb(226, 240, 235);
+        }
+     tr ,td ,th{
+           border: 1px black solid;
+           text-align: center;
+           padding: 5px;
+       }
+   </style>
+
+
+
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">NADRA</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li ><a href="./Home.html">Home</a></li>
+          <li  id="course" class="dropdown" ><a  href="#">Identity<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">National Identity Card</a></li>
+            <li><a href="#">Juvenile Card</a></li>
+            <li><a href="#">National Identity Card For Overseas Pakistanis</a></li>
+            <li><a href="#">Pakistan Origin Card</a></li>
+            <li><a href="#">Child Registration Certificate</a></li>
+            <li><a href="#">Family Registration Certificate</a></li>
+            <li><a href="#">Cancellation Certificate</a></li>
+            <!-- <li id="sub-dropdown" class="dropdown"><a href="#">web Design<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+          <ul id="sub-dropdown-menu" class="dropdown-menu">
+            <li><a href="#">HTML</a></li>
+            <li><a href="#">CSS</a></li>
+            <li><a href="#">Bootstrap 3</a></li>
+            <li><a href="#">JavaScript</a></li>
+            <li><a href="#">Angular</a></li>
+          </ul> -->
+        </li>
+
+          </ul>
+        <li  id="course" class="dropdown" ><a  href="#">Enterprice<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li id="sub-dropdown" class="dropdown"><a href="#">Solution<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                    <ul id="sub-dropdown-menu" class="dropdown-menu">
+                        <li id="sub-dropdown" class="dropdown"><a href="#">Secure Documents<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                            <ul id="sub-dropdown-menu" class="dropdown-menu">
+                                <li><a href="#">Multi Biomatric Identity</a></li>
+                                <li><a href="#">Multi Biomatric Passport</a></li>
+                                <li><a href="#">Computerized Arms License</a></li>
+                                <li><a href="#">e-Card (Health)</a></li>
+                            </ul> 
+                        </li>
+                        <li id="sub-dropdown" class="dropdown"><a href="#">e-Governance<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                                    <ul id="sub-dropdown-menu" class="dropdown-menu">
+                                        <li><a href="#">Multi Biomatric Identity</a></li>
+                                        <li><a href="#">Multi Biomatric Passport</a></li>
+                                        <li><a href="#">Computerized Arms License</a></li>
+                                        <li><a href="#">e-Card (Health)</a></li>
+                                    </ul>
+                        </li>
+                        <li id="sub-dropdown" class="dropdown"><a href="#">Security and Surveillance<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                            <ul id="sub-dropdown-menu" class="dropdown-menu">
+                                <li><a href="#">Personnel Access Control</a></li>
+                                <li><a href="#">Vehicle Access Control</a></li>
+                                <li><a href="#">Intelligent Video Surveillance</a></li>
+                                <li><a href="#">Safe City</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+
+               <li id="sub-dropdown" class="dropdown"><a href="#">Services<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                        <ul id="sub-dropdown-menu" class="dropdown-menu">
+                            <li><a href="#">Consultancy & Advisory</a></li>
+                            <li><a href="#">Enterprice Software Development</a></li>
+                            <li><a href="#">System Integration</a></li>
+                            <li><a href="#">Data Warehousing</a></li>
+                            <li><a href="#">Project Management</a></li>
+                            <li><a href="#">Financial Services</a></li>
+                        </ul> 
+                </li>
+
+
+              
+               <li id="sub-dropdown" class="dropdown"><a href="#">Media Center<span style="margin-left: 43px;" class="glyphicon glyphicon-chevron-right"></span> </a>
+                        <ul id="sub-dropdown-menu" class="dropdown-menu">
+                            <li><a href="#">Annual Report</a></li>
+                        </ul> 
+                </li>
+            </ul>
+           </li>    
+
+
+          <li><a href="#">Online ID</a></li>
+
+          
+          <li  id="course" class="dropdown" ><a  href="#">Projects<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">International Projects</a></li>
+              <li><a href="#">Local Projects</a></li>
+            </ul>
+          </li>
+
+          <li  id="course" class="dropdown" ><a  href="#">Office Timings<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">RHO Islamabad</a></li>
+              <li><a href="#">RHO Karachi</a></li>
+              <li><a href="#">RHO Lahore</a></li>
+              <li><a href="#">RHO Peshawar</a></li>
+              <li><a href="#">RHO Quetta</a></li>
+              <li><a href="#">RHO Multan</a></li>
+              <li><a href="#">RHO Sargodha</a></li>
+              <li><a href="#">RHO Sukkur</a></li>
+            </ul>
+          </li>
+
+          <li><a href="#">Fees</a></li>
+          <li><a href="#">Downloads</a></li>
+
+
+          <li  id="course" class="dropdown" ><a  href="">About Us<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Senior Management</a></li>
+              <li><a href="#">Operational Management</a></li>
+              <li><a href="#">Public Information Officer</a></li>
+              <li><a href="#">Careers</a></li>
+              <li><a href="#">Contact Us</a></li>
+            </ul>
+          </li>
+          
+        </ul>
+        </li>
+      </div>
+    </div>
+  </nav>
+
+  <br><br><br><br>
+
+  <section>
+    <div class="container">
+        <img src="../Images/slider.jpg" alt="about us">
+           <div class="bottom-left">
+               About Us
+           </div>
+    </div>
+</section>
+
+<br><br><br>
+
+<span>
+    <div> <!--main div-->
+          <div> <!--ccontent div-->
+               <p>
+                   National Database and Registration Authority (NADRA) was established as <br>
+                   National Database Organization (NDO), an attached department under the <br>
+                   Ministry of Interior, Government of Pakistan in 1998. On 10 March, 2000, NDO <br> 
+                   & Directorate General of Registration (DGR) merged to form NADRA; an <br>
+                   independent corporate body with requisite autonomy to operate <br>
+                   independently and facilitate good governance. National Database & <br>
+                   Registration Authority (NADRA) has gained international recognition for its <br> 
+                   success in providing solutions for identification, e-governance and secure <br>
+                   documents that deliver multi-pronged goals of mitigating identity theft; safe- <br>
+                   guarding the interests of our clients and facilitating the public. <br>
+                   <br>
+                   NADRA set out on the journey of Civil Registration of all Pakistanis in March <br>
+                   2000 and in a short span of time NADRA’s team indigenously created a state of <br>
+                   the art centralized Data Warehouse, Network Infrastructure and <br><br>
+               </p>
+          </div>
+
+          <div> <!--Image div-->
+               <img src="../Images/aboutus.jpg" alt="about us">
+          </div>
+    </div>    
+</span>
+<div>
+<p>
+Interactive Data Acquisition Systems to issue secure National Identity Cards (NIC). With the introduction of this new fool-proof, <br> comprehensive and highly
+sophisticated computerized system; NADRA has been successful <br> in reducing the identity theft to a bare minimum.
+</p>
+</div>
+
+<br><br><br><br>
+
+
+
+
+
+
+
+  <footer>
+    <div> <!--main div-->
+        <div>
+             <img src="../Images/logo4..jpg" alt="footer logo">
+             <br>
+             
+               <h6>
+                 National Database and Registration Authority (NADRA) <br>
+                 was established as National Database Organization <br>
+                 (NDO), an attached department under the Ministry of <br>
+                 Interior, Government of Pakistan in 1998.
+               </h6>
+        </div>
+ 
+        <div>
+               <p>
+                  <b>Identity Documents</b> 
+               </p>
+                   <ul>
+                      <li>National Identity Card</li>
+                      <li>Juvenile Card (JV)</li>
+                      <li>NIC for Overseas</li>
+                      <li>Pakistan Origin Card</li>
+                      <li>Child Certificate (CRC)</li>
+                      <li>Family Certificate</li>
+                      <li>Cancellation Certificate</li>
+                   </ul>
+              
+        </div>
+ 
+        <div>
+             <p>
+                <b>Corporate</b>
+             </p>
+                  <ul>
+                      <li>Solutions</li>
+                      <li>Secure Documents Solutions</li>
+                      <li>e-Government Solutions</li>
+                      <li>Security Solutions</li>
+                      <li>Procedure of Appeal</li>
+                  </ul>
+         </div>
+ 
+         <div>
+             <p>
+                <b>International Presence</b>
+             </p>
+                  <ul>
+                      <li>National Driver’s License System Bangladesh</li>
+                      <li>Passport Issuance & Control System Kenya</li>
+                      <li>Electronic Passport System Kenya</li>
+                      <li>Civil Registration System Sudan</li>
+                      <li>National Identity Management System Nigeria</li>
+                      <li>Election Management System Fiji</li>
+                  </ul>
+         </div>
+ 
+ 
+    </div> <!--main div-->
+ 
+    <div class="outer">
+ 
+    </div>
+ 
+    <span>
+         <p>
+             © 2021 National Database & Registration Authority
+         </p>
+    </span>
+ 
+ </footer>
+
+
+
+  
+
+
+</body>
+</html>
+
+
+
+
+

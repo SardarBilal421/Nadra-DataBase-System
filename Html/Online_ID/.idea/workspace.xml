@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="130cae2a-7128-4073-a142-6553c00fe62b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CNIC_Registeration_Foam.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeleteOneMore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertionUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogInHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpdateionUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCnic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserInfoUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserInfoUpdated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Style/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplayNow.html" beforeDir="false" afterPath="$PROJECT_DIR$/ApplayNow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/OnlineHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/OnlineHome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/header-footerOnline.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/header-footerOnline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Style/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Style/HomePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Style/homestyling.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Style/homestyling.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ufkvQoqjuXo0SDYdDmBOMPO58X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/BILAL/JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130cae2a-7128-4073-a142-6553c00fe62b" name="Default Changelist" comment="" />
+      <created>1625064282325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625064282325</updated>
+      <workItem from="1625064290379" duration="4579000" />
+      <workItem from="1625489499236" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1786" y="266" key="FileChooserDialogImpl" timestamp="1625490136306">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1786" y="266" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1625490136306" />
+  </component>
+</project>

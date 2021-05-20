@@ -1,0 +1,303 @@
+.ui-message.ui-message-error.ui-widget {
+	margin-top: 10px !important;
+	/*text-transform: capitalize;*/
+}
+
+.ui-messages-fatal .ui-messages-fatal-detail {
+	text-transform: capitalize;
+	line-height: 26px;
+	margin-left: 0px !important;
+}
+
+.ui-message .ui-message-error-detail {
+	line-height: 26px;
+}
+
+.ui-selectonemenu {
+	margin-bottom: 20px !important;
+}
+
+.ui-message-error {
+	color: #b94a48 !important;
+    background-color: #f2dede !important;
+    border-color: #eed3d7 !important;
+    padding: 5px 10px !important;
+    border-radius: 5px !important;
+    font-size: 14px !important;
+    font-weight: bold;
+}
+
+ui-messages-info-detail{
+	line-height: 22.5px !important;
+}
+
+.ui-datepicker {
+	border: 1px solid #d6e3eb !important;
+}
+
+.ui-selectoneradio label {
+	font-weight: normal !important;
+}
+
+.eidRadio {
+	height: 40px;
+	margin-bottom: 20px !important;
+}
+
+.eidLbl {
+	font-weight: normal;
+	line-height: 22px;
+}
+
+.cardAddress {
+	background: #d6e3eb;
+	padding: 9px;
+	border-radius: 3px;
+}
+
+.ui-message-error {
+	position: relative;
+	background: #f2dede;
+}
+
+.ui-message-error:after, .arrow_box:before {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.ui-message-error:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-bottom-color: #f2dede;
+	border-width: 10px;
+	margin-left: -30px;
+}
+
+.ui-message-error:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-bottom-color: #f2dede;
+	border-width: 36px;
+	margin-left: -36px;
+}
+
+.ui-messages-error {
+	position: relative;
+	background: #f2dede;
+}
+
+.ui-messages-error:after, .arrow_box:before {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.ui-messages-error:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-bottom-color: #f2dede;
+	border-width: 10px;
+	margin-left: -30px;
+}
+
+.ui-messages-error:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-bottom-color: #f2dede;
+	border-width: 36px;
+	margin-left: -36px;
+}
+
+.ui-messages-fatal {
+	font-weight: bold;
+    position: relative;
+    background: #f2dede;
+    font-size: 14px;
+    border-radius: 5px !important;
+    padding: 5px 10px;
+}
+
+.ui-messages-fatal:after, .arrow_box:before {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.ui-messages-fatal:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-bottom-color: #f2dede;
+	border-width: 10px;
+	margin-left: -30px;
+}
+
+.ui-messages-fatal:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-bottom-color: #f2dede;
+	border-width: 36px;
+	margin-left: -36px;
+}
+
+
+.eidErrorMsg .ui-messages-info-icon {
+	display: none !important;
+}
+
+.eidErrorMsg .ui-messages-info-summary {
+	display: none !important;
+}
+
+.eidErrorMsg .ui-messages-error-icon {
+	display: none !important;
+}
+
+.eidErrorMsg .ui-messages-error-summary {
+	display: none !important;
+}
+
+.eidErrorMsg .ui-messages-fatal-summary {
+	display: none !important;
+}
+
+.eidErrorMsg ul {
+	margin: 0px !important;
+	width: 94%;
+}
+
+@media (max-width: 450px) {
+	.eidErrorMsg ul {
+		width: 88%;
+	}
+}
+
+.ui-messages .ui-messages-close {
+    margin-top: 4px;
+}
+
+.eidErrorMsg .ui-messages-fatal-icon {
+	display: none !important;
+}
+
+.eidErrorMsg .ui-messages-error {
+	background: #f2dede !important;
+    color: #b94a48!important;
+    padding: 6px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px !important;
+    line-height: 26px;
+}
+
+
+.eidErrorMsgReview .ui-messages-fatal-icon {
+	display: none !important;
+}
+
+.eidErrorMsgReview .ui-messages-fatal-summary {
+	display: none !important;
+}
+
+
+.eidErrorMsgReview .ui-messages-fatal {
+	position: relative;
+	background: #f2dede;
+	border: 4px solid #f2dede;
+}
+.eidErrorMsgReview .ui-messages-fatal:after, .eidErrorMsgReview .ui-messages-fatal:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.eidErrorMsgReview .ui-messages-fatal:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #f2dede;
+	border-width: 15px;
+	margin-left: -30px;
+}
+.eidErrorMsgReview .ui-messages-fatal:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #f2dede;
+	border-width: 4px;
+	margin-left: -36px;
+}
+
+.eidErrorMsgReview .ui-messages-error-icon {
+	display: none !important;
+}
+
+.eidErrorMsgReview .ui-messages-error-summary {
+	display: none !important;
+}
+
+
+.eidErrorMsgReview .ui-messages-error {
+	position: relative;
+    border: 4px solid #f2dede;
+    background: #f2dede !important;
+    color: #b94a48!important;
+    padding: 6px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.eidErrorMsgReview .ui-messages-error:after, .eidErrorMsgReview .ui-messages-error:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.eidErrorMsgReview .ui-messages-error:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #f2dede;
+	border-width: 15px;
+	margin-left: -30px;
+}
+.eidErrorMsgReview .ui-messages-error:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #f2dede;
+	border-width: 4px;
+	margin-left: -36px;
+}
+
+.eidUploaderErrorMsg .ui-messages-error-icon {
+	display: none !important;
+}
+
+.eidUploaderErrorMsg ul {
+	margin: 0px !important;
+}
+
+.eidUploaderErrorMsg .ui-messages-fatal-icon {
+	display: none !important;
+}
+
+.eidUploaderErrorMsg .ui-messages-error {
+	background: #f2dede !important;
+    color: #b94a48!important;
+    padding: 6px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px !important;
+    line-height: 26px;
+}

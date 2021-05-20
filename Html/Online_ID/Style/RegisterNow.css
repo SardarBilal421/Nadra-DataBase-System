@@ -1,0 +1,96 @@
+header{
+background-color: rgb(231, 223, 212);    
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.logo img{
+    height: 50px;
+    margin-left: 10%;
+}
+.headerBar{
+    margin-left: 450px;
+}
+.headerBar ul li{
+    float: left;
+    display: inline;
+    margin: 8px 20px;
+}
+li a{
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.foam{
+  
+    margin-left: 20px;
+    margin-top: 200px;
+    background-color: #f7f7f7;
+    width: 60%;
+    height: auto;
+    padding-left: 80px;
+    border-radius: 10px;
+}
+.foam:hover{
+    transform: translateX(-10px);
+    transform: translateY(-10px);
+ 
+}
+p{
+    font-size:x-large;
+    text-align: center;
+    opacity: 0.8;
+    width: 80%;
+    color:  #626262;
+}
+label{
+    font-size: 20px;
+    margin: 20px;
+}
+input{
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin: 10px 0px;
+    padding: 0;
+}
+.RegisterFoam
+{
+    display: flex;
+    flex-direction: row;
+}
+.Password{
+    
+    border-radius: 10px;
+    margin-top: 200px;
+    width: 30%;
+    margin-left: 20px;
+    background-color: #f7f7f7;
+    height: 300px;
+    padding-left: 30px;
+}
+.Password:hover{
+    transform: translateX(-10px);
+    transform: translateY(-10px);
+ 
+}
+.foamLogin{
+    text-align: left ;
+    margin-left: 7%;
+    margin-top: 100px;
+    background-color: #f7f7f7;
+    width: 40% !important;
+    height: auto;
+    padding-left: 80px;
+    color:  #626262;
+}
+.foamLogin h3{
+    font-size: x-large;
+
+}

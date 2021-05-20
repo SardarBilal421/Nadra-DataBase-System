@@ -1,0 +1,29 @@
+/*
+Theme Name: Broker
+Theme URI: https://themedemo.commercegurus.com/broker/
+Author: CommerceGurus
+Author URI: http://www.commercegurus.com
+Description: Broker is a superbly designed WordPress theme for small businesses.
+Version: 2.0.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: broker
+Domain Path: /languages/
+Tags: light, white, two-columns, three-columns, right-sidebar, custom-background, custom-menu, featured-images, flexible-header, sticky-post, theme-options, translation-ready
+*/
+.footercontainer{
+	border-top: 12px solid #599e48;
+}
+
+.cg-header-fixed-wrapper.cg-is-fixed .logo img {
+    vertical-align: middle;
+    max-height: 72px;
+    padding: 0px 0px 4px !important;
+}
+
+.cd-top:before{
+	color: #fff !important;
+}
+#skrollr-body > a{
+    background-color: #438632;
+}

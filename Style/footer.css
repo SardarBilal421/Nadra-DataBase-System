@@ -1,0 +1,135 @@
+/* footer */
+
+footer {
+    background-color: rgb(69, 71, 78);
+    color: white;
+    margin-bottom: 0%;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    font-family: sans-serif;
+    width: 100%;
+    position: relative;
+
+}
+
+
+/* main div */
+footer div {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* first div with image */
+
+footer div div img {
+
+    width: 172px;
+    height: 47px;
+}
+
+footer div div {
+    flex-direction: column;
+
+}
+
+footer div div p {
+    text-align: left;
+    font-size: 10.8px;
+    font-family: Arial;
+    color: rgba(250, 240, 240, 0.877);
+    margin-left: 10%;
+    margin-top: 5%;
+    text-align: left;
+    letter-spacing: normal;
+
+}
+
+/* 2nd div */
+
+footer div:nth-child(2) {
+    margin-left: 2%;
+
+}
+
+footer div:nth-child(2) p {
+    color: white;
+    font-size: 13px;
+    font-family: Arial;
+    margin-left: 24%;
+
+}
+
+/* 3rd div */
+
+footer div:nth-child(3) {
+    margin-left: 2%;
+    margin-top: -1px;
+}
+
+footer div:nth-child(3) p {
+    color: white;
+    font-size: 13px;
+    font-family: Arial;
+    margin-left: 19%;
+}
+
+/* 4th div */
+
+footer div:nth-child(4) {
+    margin-left: 2%;
+    margin-top: -8px;
+}
+
+footer div:nth-child(4) p {
+    color: white;
+    font-size: 13px;
+    font-family: Arial;
+    margin-left: 14%;
+}
+
+/* ul is same in all li's styling */
+
+footer ul {
+    color: white;
+}
+
+
+footer ul li {
+    color: rgba(170, 170, 170, 0.884);
+    font-size: 13px;
+    font-family: sans-serif;
+    padding-top: 8px;
+}
+
+footer ul li:hover {
+    color: white;
+    cursor: pointer;
+}
+
+/* border */
+
+
+
+.outer {
+    border-bottom: 1px solid rgba(170, 170, 170, 0.884);
+
+    width: 90%;
+    margin: 0px 10% 0px 10%;
+    align-items: center;
+}
+
+
+footer span p {
+    text-align: center;
+    color: rgba(170, 170, 170, 0.884);
+    font-size: 13px;
+    font-family: Arial;
+
+    padding-top: 15px;
+
+}
